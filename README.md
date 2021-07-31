@@ -2,9 +2,9 @@
 
 ### 1. LinkedList
 
-- SINGLYLINKEDLIST
+- SinglyLinkedList
 
 ### 2. Sort
 
-- MERGE SORT
-- QUICK SORT 
+- Merge Sort
+- Quick Sort 
